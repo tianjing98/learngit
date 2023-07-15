@@ -5,4 +5,8 @@ Test Modify Aagin.
 
 Create a new branch is quick.
 
+<<<<<<< HEAD
 master add something
+=======
+feature add something
+>>>>>>> feature
