@@ -8,3 +8,8 @@ master add something
 switch to new branch dev
 
 make something .....
+
+master make something......\\
+
+
+..
