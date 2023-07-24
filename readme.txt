@@ -6,3 +6,5 @@ Create a new branch is quick.
 master add something
 
 switch to new branch dev
+
+make something .....
